@@ -2,5 +2,5 @@ import random
 import re
 
 print("Hello World")
-A = USTA
+A = "USTA"
 print(A)
